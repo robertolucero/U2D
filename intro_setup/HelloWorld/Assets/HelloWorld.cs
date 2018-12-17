@@ -7,7 +7,7 @@ public class HelloWorld : MonoBehaviour
     void Start()
     {
 
-        print("Hello Ramiro y Octavio!");
+        print("Hi brothers!");
 
     }
 
